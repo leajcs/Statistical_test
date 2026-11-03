@@ -1,4 +1,4 @@
-👋 Heyyy!
+👋 Heyyy! Here is the link for the statistical test if it doesn't show up directly : https://leajcs.github.io/Statistical_test/
 
 I'm just a PhD student who sometimes struggles with statistics and often struggles even more when trying to explain to others which statistical test they should use 😅.
 
