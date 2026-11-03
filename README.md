@@ -26,4 +26,4 @@ Examples: Sampling day, Tank, Site, Observer, Fish ID (for repeated measurements
 These factors are usually included to account for variability rather than to compare the groups themselves.
 
 ⚠️ Disclaimer: This tool is intended as a guide for educational and exploratory purposes.
-Statistical analyses depend on study design, data structure, and research questions. When in doubt, consult a statistician or someone with experience in the methods you plan to use.
+Statistical analyses depend on study design, data structure, and research questions. When in doubt, consult a statistician or someone with experience in the methods you plan to use 
